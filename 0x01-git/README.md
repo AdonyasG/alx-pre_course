@@ -1,1 +1,2 @@
-My second readme
+updated read me ,
+new git commands
